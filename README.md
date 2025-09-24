@@ -1,2 +1,3 @@
-# resume
-my resume
+# my story file
+my story file
+
